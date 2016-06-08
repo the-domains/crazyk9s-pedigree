@@ -1,7 +1,7 @@
 name: CrazyK9s - Pedigree
 favicon: null
 layout_spectrum: 0.5444725342094898
-typography_spectrum: 0.9470534925349057
+typography_spectrum: 0.68996
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.4973860702011734
+  brandStrength: 0.75
   lightness: 0.9406117973849177
-  saturation: 0.11037125089205801
+  saturation: 0.875
   rhythmicContrast: 0.17257036035880446
 purpose: []
