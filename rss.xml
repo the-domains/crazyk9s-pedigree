@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CrazyK9s - Pedigree]]></title>
+        <description><![CDATA[CrazyK9s - Pedigree]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 18:08:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dog Pedigree Data Collection and Research</p>]]></description>
+            <link>undefineddog-pedigree-data-collection-and-research/index.html</link>
+            <guid isPermaLink="false">6134f5e3-96b6-4ab1-be09-001a14beaa54</guid>
+            <pubDate>Wed, 08 Jun 2016 18:08:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
